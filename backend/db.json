@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Rafael José Cadena Bandeira de Melo Araujo",
+      "email": "fefsefsef",
+      "id": 1
+    },
+    {
+      "name": "Joao da Silva",
+      "email": "lal alae fale faefaef",
+      "id": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "operator"
+    }
+  ]
+}
